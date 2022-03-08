@@ -704,6 +704,7 @@ API | Description | Auth | HTTPS | CORS |
 | [NaMoMemes](https://github.com/theIYD/NaMoMemes) | Memes on Narendra Modi | No | Yes | Unknown |
 | [Random Useless Facts](https://uselessfacts.jsph.pl/) | Get useless, but true facts | No | Yes | Unknown |
 | [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2) | REST API for Yo Momma Jokes | No | Yes | Unknown |
+| [Bucket List API](https://github.com/krishnapankhania/bucket-list-public-api) | Suggest bucket list items | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Environment
